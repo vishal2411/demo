@@ -1,2 +1,2 @@
 # demo
-demo repo
+demo repo for git commands pratice
